@@ -81,5 +81,3 @@ function mainLoop(timestamp) {
 
     mouseDown = false;
 }
-
-start();
