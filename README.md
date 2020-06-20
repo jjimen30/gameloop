@@ -14,7 +14,7 @@ Simply copy the following link to the CDN:
 ## Setup
 
 The gameloop API is built around two the update and the draw functions callback functions.
-```
+```javascript
 function update(delta) {
 // Update some element.
 }
