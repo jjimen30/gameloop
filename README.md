@@ -5,7 +5,7 @@ A lightweight gameloop used for html5.
 ## How to use
 
 You can use [jsDeliver](https://www.jsdelivr.com/) to access the API.
-Simply copy the following link to the CDN:
+Use the following link to the CDN:
 
 -------
 
